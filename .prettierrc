@@ -1,4 +1,12 @@
 {
   "arrowParens": "avoid",
-  "semi": false
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "semi": true,
+  "singleQuote": true,
+  "proseWrap": "always",
+  "quoteProps": "as-needed",
+  "printWidth": 120,
+  "tabWidth": 2,
+  "trailingComma": "all"
 }
